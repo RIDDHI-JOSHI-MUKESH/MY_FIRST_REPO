@@ -3,3 +3,5 @@ Hi all,
 This is my first TXT file.
 
 This is the first change from branch_1.
+
+This is the test fot git comment --amend
